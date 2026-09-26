@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: D:/Mobile-AR-Development/DND_AR_Project/Assets/Scenes/AR Template Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
